@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "La casa",
-            "url": "/pricing",
+            "url": "/lacasa",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
